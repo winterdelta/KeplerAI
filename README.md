@@ -2,6 +2,8 @@
 
 Hi! I'm winter delta (WΔ) and **here** you can find a couple of `.csv` files. Together they comprise a train and test set primed for machine learning. 
 
+![Sagittarius](http://www.danlessmann.com/FullSizeImages/Astro/M8_2007-07-14_filtered.jpg)
+
 ### The Mission
 
 Kepler is a NASA satellite-telescope designed to search for exoplanets. It is currently in its K2 phase. From an operational perspective, Kepler conducts campaigns. During a campaign, its camera focuses on one area of space and observes the same region for around 80 days.
@@ -45,3 +47,8 @@ Plausible Future Strategies:
 # Issues to note:
 
 On download, the datasets are **unnormalised**. 
+
+---
+
+###### Images scattered throughout this repo are Copyright © 2011 by [Dan Lessmann](http://www.danlessmann.com/index.htm).
+
