@@ -1,6 +1,6 @@
 # *The Search for New Earths*
 
-Hi! I'm winter delta (WΔ) and **here** you can find a couple of `.csv` files. Together they comprise a train and test set primed for machine learning. 
+Hi! I'm winter delta (WΔ) and **[here](https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data)** you can find a couple of `.csv` files. Together they comprise a train and test set primed for machine learning. 
 
 ![Sagittarius](http://www.danlessmann.com/FullSizeImages/Astro/M8_2007-07-14_filtered.jpg)
 
@@ -12,7 +12,7 @@ Kepler is very sensitive to changes in flux (light intensity). Periodically, dat
 
 ### The Data
 
-The `.csv` files are hosted on **Kaggle,** where a description of the datasets can also be found.
+The `.csv` files are hosted on **[Kaggle](https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data)**, where a description of the datasets can also be found.
 
 ### From Mikulski to Kaggle
 
@@ -32,8 +32,8 @@ In total there are 42 observations labelled with a `1`, 5 in the test set and 37
 Of course, it's quite simple... build a classification algorithm! What has been tried so far:
 
 * 1-D CNN in Torch7
-* **XGBoost in R**
-* **PCA in Python**
+* **[XGBoost in R](https://github.com/winterdelta/keplersmachines/blob/master/XGBoost/XGBoost_in_R.ipynb)**
+* **[PCA in Python](https://github.com/winterdelta/keplersmachines/blob/master/PCA/PCA_in_Python.ipynb)**
 
 None of these angles have provided strong results so far.
 
