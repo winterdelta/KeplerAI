@@ -18,12 +18,12 @@ I myself (WΔ) created these datasets in late-summer 2016 and have now open-sour
 
 1. *Download* the Campaign-3 folder containing `n` star-files.
 2. For each star-file **do**:
-..3. *Transpose* PDC_SAP_FLUX column
-....4. *Merge* row onto `df`
+ ..3. *Transpose* PDC_SAP_FLUX column
+ ....4. *Merge* row onto `df`
 
 At the time of cleaning, 'it was felt' that Campaign-3 was unlikely to contain any undiscovered exoplanet-stars. Therefore, all stars (i.e. all rows) which were *not* confirmed to host an exoplanet, were labelled with a `0`. This is over 99% of the observations :-( . This project could be renamed as '*A Search for a Needle in a Haystack*'.
 
-In total there are 42 observations labelled with a `1`, 5 in the test set and `37` in the train set.
+In total there are 42 observations labelled with a `1`, 5 in the test set and 37 in the train set.
 
 # This Mission
 
@@ -38,9 +38,9 @@ None of these angles have provided strong results so far.
 Plausible Future Strategies:
 
 * Data Augmentation:
-... Since the observations are time series trends, perhaps systematically shifting rows and adding noise could generate additional realistic (albeit synthetic) trends.
+ ...Since the observations are time series trends, perhaps systematically shifting rows and adding noise could generate additional realistic (albeit synthetic) trends.
 * Deep Autoencoders:
-... Clustering, i.e. unsupervised learning, might shed light into new angles to take.
+ ...Clustering, i.e. unsupervised learning, might shed light into new angles to take.
 
 # Issues to note:
 
