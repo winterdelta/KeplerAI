@@ -1,4 +1,4 @@
-* The Search for New Earths*
+*The Search for New Earths*
 ===========================
 
 Hi! I'm winter delta (WΔ) and **here** you can find a couple of `.csv` files. Together they comprise a train and test set primed for machine learning. 
@@ -28,7 +28,7 @@ In total there are 42 observations labelled with a `1`, 5 in the test set and `3
 
 ----------
 
-* The * Mission
+ * The * Mission
 ---------------
 
 
