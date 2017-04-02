@@ -6,7 +6,7 @@ Hi! I'm winter delta (WΔ) and **here** you can find a couple of `.csv` files. T
 
 Kepler is a NASA satellite-telescope designed to search for exoplanets. It is currently in its K2 phase. From an operational perspective, Kepler conducts campaigns. During a campaign, its camera focuses on one area of space and observes the same region for around 80 days.
 
-Kepler is very sensitive to changes in flux (light intensity). Periodically, data are beamed down to Earth and after a bit of de-noising, they are open-sourced via the **Mikulski Archive**.
+Kepler is very sensitive to changes in flux (light intensity). Periodically, data are beamed down to Earth and after a bit of de-noising, they are open-sourced via the **[Mikulski Archive](https://archive.stsci.edu/k2/)**.
 
 ### The Data
 
