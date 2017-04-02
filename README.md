@@ -16,10 +16,10 @@ The `.csv` files are hosted on **Kaggle,** where a description of the datasets c
 
 I myself (WΔ) created these datasets in late-summer 2016 and have now open-sourced them. I cleaned/processed them as follows:
 
-1. *Download* the Campaign-3 folder containing `n` star-files.
-2. For each star-file **do**:
-   3. *Transpose* PDC_SAP_FLUX column
-     4. *Merge* row onto `df`
+* *Download* the Campaign-3 folder containing `n` star-files.
+* For each star-file **do**:
+    * *Transpose* PDC_SAP_FLUX column
+        * *Merge* row onto `df`
 
 At the time of cleaning, 'it was felt' that Campaign-3 was unlikely to contain any undiscovered exoplanet-stars. Therefore, all stars (i.e. all rows) which were *not* confirmed to host an exoplanet, were labelled with a `0`. This is over 99% of the observations :-( . This project could be renamed as '*A Search for a Needle in a Haystack*'.
 
