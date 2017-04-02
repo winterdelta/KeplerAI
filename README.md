@@ -38,9 +38,9 @@ None of these angles have provided strong results so far.
 Plausible Future Strategies:
 
 * Data Augmentation:
-    Since the observations are time series trends, perhaps systematically shifting rows and adding noise could generate additional realistic (albeit synthetic) trends.
+    * Since the observations are time series trends, perhaps systematically shifting rows and adding noise could generate additional realistic (albeit synthetic) trends.
 * Deep Autoencoders:
-    Clustering, i.e. unsupervised learning, might shed light into new angles to take.
+    * Clustering, i.e. unsupervised learning, might shed light into new angles to take.
 
 # Issues to note:
 
